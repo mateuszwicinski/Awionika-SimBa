@@ -1,0 +1,7 @@
+Name,Description,Designator,Footprint,LibRef,Quantity
+
+"PrzejscieTHT","","J8","PrzejscieTHT","PrzejscieTHT","1"
+"PrzejscieTHT10","","J9","PrzejscieTHT10","PrzejscieTHT10","1"
+"10k?","CRGCQ 0805 10K 5%","R3","FP-CRGCQ0805-IPC_C","CMP-03211-002989-1","1"
+"Waveshare_3947","","SD1","Waveshare_3947","Waveshare_3947","1"
+"ESP32-C3-Zero","","U6","ESP32-C3-Zero","ESP32-C3-Zero","1"
