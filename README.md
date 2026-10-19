@@ -50,3 +50,7 @@ Projekty:
 Pliki projektowe Altium Designer (.PrjPcb, .SchDoc, .PcbDoc).
 
 Biblioteki symboli (.SchLib) oraz footprintów (.PcbLib) utworzone na potrzeby projektu.
+
+
+<img width="3982" height="2461" alt="Plytka_srodkowa_ESP_SD(bok1)" src="https://github.com/user-attachments/assets/1f6b9a6e-c8ed-4c57-b403-96c427d23071" />
+
